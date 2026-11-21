@@ -1,7 +1,7 @@
 # Online-Shopping-Project
 # What Drives Order Value? An Analysis of Online Shopping Orders in India
 
-A beginner data analysis project in Python (pandas, NumPy, Matplotlib, Seaborn) on a synthetic online shopping dataset.
+Data analysis project in Python (pandas, NumPy, Matplotlib, Seaborn) on a synthetic online shopping dataset.
 
 **Name:** Siddhant Chauhan  
 **Admission No:** 2026B01010381  
