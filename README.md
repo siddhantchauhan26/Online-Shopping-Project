@@ -1,4 +1,3 @@
-# Online-Shopping-Project
 # What Drives Order Value? An Analysis of Online Shopping Orders in India
 
 Data analysis project in Python (pandas, NumPy, Matplotlib, Seaborn) on a synthetic online shopping dataset.
